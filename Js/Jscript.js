@@ -16,7 +16,7 @@ const productoSeleccionado=[];
 const cargarProductos=async()=>{ 
     baseDatos=localStorage.getItem("productos");
     if (baseDatos == null){
-        const response = await fetch("Json/productos.json");
+        const response = await fetch("../Json/productos.json");
         productos = await response.json();
 
         localStorage.setItem("productos", JSON.stringify(productos));
