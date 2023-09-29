@@ -1,12 +1,4 @@
-let baseDatos;
-// fetch ("../Json/productos.json").
-// then((response)=>response.json())
-// .then((json)=>{
-//      localStorage.setItem("productos",JSON.stringify(json));
-// });
-
-// const productos=localStorage.getItem("productos")
-// const baseDatos=JSON.parse(productos);
+//let baseDatos;
 
 const domItems=document.querySelector("#items");
 
