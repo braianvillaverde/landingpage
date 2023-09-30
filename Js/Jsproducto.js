@@ -4,8 +4,6 @@ const domItems2=document.querySelector("#items2");
 const btn=document.querySelector("#volver");
 
   detalle.forEach(producto=>{
-    // const longEstrellas=producto.nivel.length;
-    // const iconEstrellas = ["☠", "☠", "☠", "☠", "☠"];
      const card=document.createElement("div");
      card.classList.add("card","col-sm-3","d-flex","justify-content-center");
       const imagen=document.createElement("img");
