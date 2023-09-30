@@ -34,7 +34,7 @@ const cargarProductos=async()=>{
         desc.textContent=producto.descripcion;
         const enlace=document.createElement("a");
         enlace.classList.add("card-link");
-        enlace.setAttribute("href","../detalles.html");
+        enlace.setAttribute("href","detalles.html");
         enlace.textContent="...Mas detalles";
 
         contenido.appendChild(title);

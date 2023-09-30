@@ -2,7 +2,7 @@
     {
         "nombre":"Martillo",
         "descripcion":"El martillo es una herramienta de percusión utilizada para golpear directa o indirectamente​ una pieza, causando su desplazamiento",
-        "imagen":"../img/martillo.jpg",
+        "imagen":"img/martillo.jpg",
         "detalle":"detalle para martillo",
         "precio":"$ 2000.00",
         "nivel":"****"
@@ -10,7 +10,7 @@
     {
         "nombre":"Amoladora",
         "descripcion":"Es una herramienta usada para cortar, esmerilar y para pulir.",
-        "imagen":"../img/amoladora.jpg",
+        "imagen":"img/amoladora.jpg",
         "detalle":"detalle para amoladora",
         "precio":"$ 23000.00",
         "nivel":"***"
@@ -18,7 +18,7 @@
     {
         "nombre":"Cinta",
         "descripcion":"Es un instrumento de medida que consiste en una cinta flexible graduada y que se puede enrollar, haciendo que el trabajo sea más fácil. También con ella se pueden medir líneas y superficies curvas.",
-        "imagen":"../img/cinta.jpg",
+        "imagen":"img/cinta.jpg",
         "detalle":"detalle para cinta",
         "precio":"$ 2500.00",
         "nivel":"**"
@@ -26,7 +26,7 @@
     {
         "nombre":"Destornillador",
         "descripcion":" Es una herramienta que se utiliza para apretar y aflojar tornillos y otros elementos de máquinas que requieren poca fuerza de apriete y que generalmente son de diámetro pequeño.",
-        "imagen":"../img/destornillador.jpg",
+        "imagen":"img/destornillador.jpg",
         "detalle":"detalle para destornillador",
         "precio":"$ 1500.00",
         "nivel":"***"
@@ -34,7 +34,7 @@
     {
         "nombre":"Llave francesa",
         "descripcion":"Es una herramienta manual utilizada para aflojar o ajustar tuercas y tornillos.",
-        "imagen":"../img/francesa.jpg",
+        "imagen":"img/francesa.jpg",
         "detalle":"detalle para llave francesa",
         "precio":"$ 3000.00",
         "nivel":"****"
@@ -42,7 +42,7 @@
     {
         "nombre":"Taladro a bateria",
         "descripcion":"Es una herramienta compuesta que se utiliza para perforar diversos materiales.",
-        "imagen":"../img/taladro.jpg",
+        "imagen":"img/taladro.jpg",
         "detalle":"detalle para el taladro",
         "precio":"$ 30000.00",
         "nivel":"*****"
