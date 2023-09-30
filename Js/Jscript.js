@@ -23,7 +23,7 @@ const cargarProductos=async()=>{
         card.classList.add("card","col-sm-3");
         const imagen=document.createElement("img");
         imagen.classList.add("card-img-top","img-thumbnail");
-        imagen.setAttribute("src", "../" + producto.imagen);
+        imagen.setAttribute("src", producto.imagen);
         const contenido=document.createElement("div");
         contenido.classList.add("card-body");
         const title=document.createElement("h5");
