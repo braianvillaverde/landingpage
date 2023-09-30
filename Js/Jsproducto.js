@@ -8,7 +8,7 @@ const btn=document.querySelector("#volver");
      card.classList.add("card","col-sm-3","d-flex","justify-content-center");
       const imagen=document.createElement("img");
       imagen.classList.add("card-img-top");
-      imagen.setAttribute("src", producto.imagen);
+      imagen.src=`img/${producto.imagen}`;
       const contenido=document.createElement("div");
       contenido.classList.add("card-body");
       const title=document.createElement("h2");
